@@ -60,9 +60,7 @@ In this project, from the beginning with figma wireframe design and figma UI des
 
 ---
 
-## Live Demo
-
-[Live Demo Link](https://azateser.github.io/little-lemon-finalProject/build)
+##...........
 
 ---
 
